@@ -1,0 +1,8 @@
+com\bfh\qualifier\QualifierApplication.class
+com\bfh\qualifier\config\AppProperties.class
+com\bfh\qualifier\startup\StartupRunner.class
+com\bfh\qualifier\dto\RegistrationRequest.class
+com\bfh\qualifier\config\RestConfig.class
+com\bfh\qualifier\dto\SqlSubmissionRequest.class
+com\bfh\qualifier\dto\RegistrationResponse.class
+com\bfh\qualifier\service\QualifierService.class
